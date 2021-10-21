@@ -1,0 +1,28 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    font-family: 'Permanent Marker', cursive;
+    font-weight: 900;
+    display: inline;
+    font-size: 35px;
+}
+
+.heading button {
+    font-family: 'Permanent Marker', cursive;
+    float: right;
+    border: 2px solid whitesmoke;
+    font-weight: 900;
+    font-size: 30px;
+    border-radius: 40px;
+}
+
+#start , #status , #restart{
+    font-family: 'Permanent Marker', cursive;
+    border: 2px solid whitesmoke;
+    font-weight: 900;
+    font-size: 30px;
+    border-radius: 40px;
+}
